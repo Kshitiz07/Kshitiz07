@@ -50,5 +50,4 @@
 [linkedin]: https://linkedin.com/in/ixhitiz
 [facebook]: https://www.facebook.com/kshitiz.bhattarai1
 
-"# Kshitiz07" 
 
