@@ -32,10 +32,6 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kshitiz07&show_icons=true" alt="Kshitiz07" /></p>
 
 
-[Company]: https://www.inficare.net/
-[twitter]: https://twitter.com/heykshitiz
-[instagram]: https://www.instagram.com/xhitiz1
-[linkedin]: https://linkedin.com/in/ixhitiz
-[facebook]: https://www.facebook.com/kshitiz.bhattarai1
+
 
 
