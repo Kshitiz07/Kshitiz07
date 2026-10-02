@@ -1,37 +1,39 @@
-### Hi there, I'm Kshitiz 👋
+<a href="https://kshitiz07.github.io"><img src="./banner.svg" alt="Kshitiz Bhattarai: Data you can trust. ML, computer vision, cybersecurity." width="100%"></a>
 
-## I'm a Developer, Learner and Tech-Enthusiast!
+<p>
+  <a href="https://kshitiz07.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kshitiz07.github.io-6fd3c1?style=flat-square&labelColor=0c111c"></a>
+  <a href="https://www.linkedin.com/in/kshitizbhattarai"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kshitizbhattarai-6fd3c1?style=flat-square&labelColor=0c111c"></a>
+  <a href="mailto:xhitiz1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-xhitiz1%40gmail.com-f2a65a?style=flat-square&labelColor=0c111c"></a>
+</p>
 
-- 🔭 I am currently searching for a full time job for Machine Learning/ Data Science. 
-- 🌱 I am learning AI and ML technologies and exploring it. 
-- 👯 I am looking forward to learn and collaborate with other programmers to grow together
-- 🥅 2023 Goal: Contribute more in AI/ML part and try to start developing a product which puts positive impacts to the society.
-- ⚡ Fun fact: I love to talk with old age people and listen to their experience.
+I build systems that turn data into decisions and keep them secure. Over 8+ years I've worked across **software engineering, machine learning, data analytics and IT security**, in Bengaluru, Kathmandu, Toronto and now Nelson, BC.
 
+- **Now:** leading data, automation, cybersecurity and AI work for 50+ staff and ~20,000 customers
+- **Research interest:** telling adversarial drift apart from natural change in deployed detectors, plus robust computer vision
+- **Open to:** roles in AI, data and cybersecurity across Canada, and MSc research collaborations
 
-### Connect with me:
+### Selected work
 
-[<img align="left" alt="Kshitiz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Kshitiz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kshitiz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+| Project | What it does | Stack |
+|---|---|---|
+| **eKYC Identity Verification** | Face detection, live-selfie-to-ID matching and passport OCR for a fintech product. Contributed to a **40% sales increase**. | Python · Flask · Azure · OpenCV |
+| **Fraud & Anomaly Detection** | Flags unusual activity in banking transaction systems for a regulated environment. | Python · Elasticsearch · Docker |
+| **AI Support Assistant** | Claude-based assistant grounded in a company knowledge base, with command-tag routing. | Claude API · Python |
+| **Smart Home Security** | Raspberry Pi door system with LBPH face recognition, Twilio alerts and remote unlock. | OpenCV · Raspberry Pi · IoT |
+| [**ASL Alphabet Recognition**](https://github.com/Kshitiz07/ASL_TransferLearning) | Sign-language alphabet recognizer using transfer learning on InceptionV3. | TensorFlow · OpenCV |
+| [**MovieLens Recommender**](https://github.com/Kshitiz07/SocialMediaAnalytics_Assignment_Recommender-System-on-MovieLens-dataset) | Collaborative-filtering recommender built and evaluated on MovieLens. | Python · Jupyter |
 
+<sub>The first four were built for employers or as a capstone, so their code is private. Full write-ups and live demos are on my <a href="https://kshitiz07.github.io">portfolio</a>.</sub>
 
-<br />
+### Toolkit
 
-### Languages and Tools:
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android"width="40" height="40" /> 
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+**ML & vision:** TensorFlow · Keras · scikit-learn · OpenCV · NLP · OCR  
+**Data:** Python · Pandas · SQL · PostgreSQL · Power BI · ETL · Elastic Stack  
+**Cloud & build:** Docker · AWS (Lambda) · Azure · Flask · FastAPI · Django · Zapier · Claude API  
+**Security & IT:** Microsoft 365 · Microsoft Defender · DMARC · phishing response · security awareness training
 
+### Background
 
----
+PG Certificate in AI & Machine Learning, Lambton College (Dean's Honour List) · B.E. Computer Science & Engineering, Dr. Ambedkar Institute of Technology (First Class with Distinction)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitiz07&hide=html" alt="Kshitiz07"/>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kshitiz07&show_icons=true" alt="Kshitiz07" /></p>
-
-
-
-
-
+<sub>Fun fact: I love talking with older people and listening to their stories.</sub>
